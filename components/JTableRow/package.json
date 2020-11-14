@@ -1,7 +1,8 @@
 {
-  "name": "@jsilva-pt/j-table-row",
-  "version": "0.0.0",
+  "name": "@onlurking/j-table-row",
+  "version": "0.1.0",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "84aadf218b5e96030221f136eb28af8f488eadf7"
 }
