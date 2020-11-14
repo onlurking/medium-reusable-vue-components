@@ -4,5 +4,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "84aadf218b5e96030221f136eb28af8f488eadf7"
+  "gitHead": "84aadf218b5e96030221f136eb28af8f488eadf7",
+  "dependencies": {
+    "@onlurking/j-table-row": "^0.1.0"
+  }
 }
